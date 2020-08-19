@@ -25,7 +25,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">LATINO</td><td align="right">2</td><td align="left"><code>https://firebasestorage.googleapis.com/v0/b/streamtest-79772.appspot.com/o/tv.m3u?alt=media&token=76121d9b-793c-4ab9-aba2-45ee361eb971</code></td></tr>
+		<tr><td align="left">LATINO</td><td align="right">2</td><td align="left"><code>https://firebasestorage.googleapis.com/v0/b/streamtest-79772.appspot.com/o/lista33.m3u?alt=media&token=ad27c4bf-8878-49ab-8ba9-bc8788a3c677</code></td></tr>
 	</tbody>
 </table>
 
@@ -36,7 +36,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Language</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">LATINO</td><td align="right">2</td><td align="left"><code>https://firebasestorage.googleapis.com/v0/b/streamtest-79772.appspot.com/o/tv.m3u?alt=media&token=76121d9b-793c-4ab9-aba2-45ee361eb971</code></td></tr>
+		<tr><td align="left">LATINO</td><td align="right">2</td><td align="left"><code>https://firebasestorage.googleapis.com/v0/b/streamtest-79772.appspot.com/o/lista33.m3u?alt=media&token=ad27c4bf-8878-49ab-8ba9-bc8788a3c677</code></td></tr>
 		
 	</tbody>
 </table>
@@ -48,7 +48,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Country</th><th align="right">Channels</th><th align="left">Playlist</th><th align="left">EPG</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">LATINO</td><td align="right">2</td><td align="left"><code>https://firebasestorage.googleapis.com/v0/b/streamtest-79772.appspot.com/o/tv.m3u?alt=media&token=76121d9b-793c-4ab9-aba2-45ee361eb971</code></td></tr>
+		<tr><td align="left">LATINO</td><td align="right">2</td><td align="left"><code>https://firebasestorage.googleapis.com/v0/b/streamtest-79772.appspot.com/o/lista33.m3u?alt=media&token=ad27c4bf-8878-49ab-8ba9-bc8788a3c677</code></td></tr>
 	</tbody>
 </table>
 
