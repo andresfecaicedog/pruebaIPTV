@@ -25,7 +25,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Auto</td><td align="right">2</td><td align="left"><code>https://firebasestorage.googleapis.com/v0/b/streamtest-79772.appspot.com/o/ss_playlist_20200726.m3u?alt=media&token=932ba5ef-4d16-4b8f-9651-a6b94c8d5f30</code></td></tr>
+		<tr><td align="left">Auto</td><td align="right">2</td><td align="left"><code>https://firebasestorage.googleapis.com/v0/b/streamtest-79772.appspot.com/o/tv.m3u?alt=media&token=76121d9b-793c-4ab9-aba2-45ee361eb971</code></td></tr>
 		<tr><td align="left">Negocios</td><td align="right">33</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
 		<tr><td align="left">Comedia</td><td align="right">5</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/comedy.m3u</code></td></tr>
 		<tr><td align="left">Documentales</td><td align="right">18</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/documentary.m3u</code></td></tr>
